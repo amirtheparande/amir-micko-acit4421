@@ -1,6 +1,6 @@
-#ACIT 4421 Project
+# ACIT 4421 Project
 
-##Contributors:
+## Contributors:
 1.  Amir
 2.  Micko
 
