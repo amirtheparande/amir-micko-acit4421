@@ -1,2 +1,7 @@
-# amir-micko-acit4421
-# amir-micko-acit4421
+#ACIT 4421 Project
+
+##Contributors:
+1.  Amir
+2.  Micko
+
+
