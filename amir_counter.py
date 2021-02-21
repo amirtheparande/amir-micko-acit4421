@@ -14,4 +14,4 @@ def counter_kill():
 	window.destroy()
 
 
-root.mainloop()
+window.mainloop()
