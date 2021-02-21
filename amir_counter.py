@@ -9,4 +9,9 @@ def counter_click():
     L['text'] = 'Button clicked: ' + str(root.counter)
         
 
+#This function kills the window, when the button is pressed.
+def counter_kill():
+	root.destroy()
+
+
 root.mainloop()
