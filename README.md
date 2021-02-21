@@ -1,4 +1,4 @@
-# ACIT 4421 Project
+# Amir-Micko Simple Tkinter counter
 
 ## Contributors:
 1.  Amir
