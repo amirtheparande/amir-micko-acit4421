@@ -1,3 +1,5 @@
+#function for cycling through the #s and killing the counter
+
 from Tkinter import *
 
 
