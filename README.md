@@ -1,6 +1,6 @@
-# Counter
+# Tkinter Counter
 
 __Contributors__ 
-1. Micko
+- Micko
 
-2. Amir
+- Amir
