@@ -3,7 +3,7 @@ from tkinter import *
 from timeit import default_timer as timer 
 import random 
 
-#Creating the tk window
+#Creating the tk window | Customization
 window = Tk()
 window.geometry("450x200")
 Title=Label(window,text="lets start the counter!", font="times 20")
