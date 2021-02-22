@@ -10,12 +10,12 @@ Title=Label(window,text="lets start the counter!", font="times 20")
 Title.place(x=10,y=50)
 window.counter = 0
 
-#This function increases the counter by 1 everytime the button is clicked.
+#Increasing the counter by 1 everytime the button is clicked.
 def counter_click():
     window.counter += 1
     Title['text'] = 'Button clicked: ' + str(window.counter)
 
-#This function kills the window, when the button is pressed.
+#Killing the window when the button is pressed.
 def counter_kill():
     window.destroy()
 
